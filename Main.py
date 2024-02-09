@@ -76,7 +76,7 @@ def coffee_machine():
     # coffee
     espresso = MENU['espresso']
     latte = MENU['latte']
-    cappuccino = MENU['latte']
+    cappuccino = MENU['cappuccino']
 
     # cost
     espresso_cost = espresso['cost']
