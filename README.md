@@ -1,3 +1,3 @@
 # Coffee-Machine
 # Description
-A imitation of a coffee machine. It lets the user select their type of coffee then they can add the amount of coins they add to the machine. The machine calculated the coins then figures out t
+This is a simulation of a coffee machine where users can choose their type of coffee and add coins to make a purchase. The machine then calculates the payment to determine if it meets or exceeds the required amount for the chosen coffee. If the condition is not met, the machine provides a refund. If the condition is met, it dispenses the change and the selected coffee. Additionally, the coffee machine has a hidden command to turn it off and another command to display its available resources for making coffee.
